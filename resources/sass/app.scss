@@ -1,0 +1,20 @@
+
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+
+// color
+
+$theme-colors: (
+    "primary": #df0560,
+    "secondary": #ff5dae ,
+    "pinkish": #8b0d70
+  );
+
+// Bootstrap
+ @import '~bootstrap/scss/bootstrap';
+// @import '~assets_sidebar\scss\bootstrap\bootstrap.scss';
